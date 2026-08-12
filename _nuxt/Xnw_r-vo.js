@@ -1,0 +1,1 @@
+import{_ as o}from"./DlAUqK2U.js";import{c as t,o as a,a as e,z as c}from"./eWXMLC03.js";const r={},n={class:"relative overflow-hidden"},l={class:"w-full h-screen"};function _(s,d){return a(),t("div",n,[e("main",null,[e("section",l,[c(s.$slots,"default")])])])}const m=o(r,[["render",_]]);export{m as default};
